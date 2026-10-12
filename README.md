@@ -4,9 +4,9 @@ A retro, Y2K-styled community site for artists: share artwork, talk in forums, f
 
 **Live site: https://myartplus.site.je**
 
-| Light theme | Dark theme |
-|---|---|
-| ![Sign-up page, light theme](assets/signup-light.jpg) | ![Sign-up page, dark theme](assets/signup-dark.jpg) |
+| Home | Browse | Forum |
+|---|---|---|
+| ![Home page](assets/home.jpg) | ![Browse artwork](assets/browse.jpg) | ![Forum](assets/forum.jpg) |
 
 ## What it does
 
